@@ -1,2 +1,2 @@
-# sauravdesigns.github.io
-all my designs
+# Photoshop
+This repo contains some of my design works
